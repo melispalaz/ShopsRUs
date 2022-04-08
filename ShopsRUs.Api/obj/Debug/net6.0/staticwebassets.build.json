@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "eKub4ThFyeyGvH4IQMxBgvH0gPckP0tiGpfjyTKDf6A=",
+  "Source": "ShopsRUs.Api",
+  "BasePath": "_content/ShopsRUs.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
